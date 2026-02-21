@@ -2,6 +2,7 @@
 #include <math.h>
 
 int main(){
+   int j;
    int n, i, isprime, limit;
    for(n=2; n<=100; n++){
       isprime = 1;
